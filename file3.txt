@@ -6,4 +6,7 @@ s This is my second edit and I am doing this for learning purpose.
 Thank you for letting me know.
 
 I will go ahead  and make more changes
-:
+ 
+
+ I will delet this part and restore it ::wq:qw:!:;
+:qwww:
